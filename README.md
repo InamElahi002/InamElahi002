@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Inam Elahi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan Lahore</h3>
-
-
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidxyel&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidxyel" /> </p>
 
 - 🔭 I’m currently working on **Frontend, Backend**
 
