@@ -16,16 +16,12 @@
 
 - ⚡ Fun fact **I think i am funny**
 
-
-
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/inam-elahi-7159b927a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/shonugee004/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="undefinedhttps://medium.com/@shonugee0004" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=InamElahi002&show_icons=true&locale=en" alt="InamElahi002" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InamElahi002&" alt="InamElahi002" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=InamElahi002&show_icons=true&locale=en&layout=compact" alt="InamElahi002" /></p>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/inam-elahi-7159b927a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/inam-elahi-7159b927a/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shonugee004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shonugee004/" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@shonugee0004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@shonugee0004" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -63,6 +59,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 </div>
+
 
 ###
 
