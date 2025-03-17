@@ -59,7 +59,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 </div>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -69,9 +68,4 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 
