@@ -60,6 +60,11 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/InamElahi002/InamElahi002/output/snake.svg" alt="Snake animation" />
+
+###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inamelahi002&show_icons=true&locale=en&layout=compact" alt="inamelahi002" /></p>
 
